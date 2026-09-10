@@ -194,7 +194,7 @@ main {
     background: #2c3e50;
     transform-origin: bottom center;
     transform: translateX(-50%) rotate(0deg);
-    transition: transform 0.1s cubic-bezier(0.1, 0, 0.1, 1);
+    transition: transform 0.12s ease-out;
     z-index: 10;
 }
 
